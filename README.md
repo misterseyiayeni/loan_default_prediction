@@ -83,7 +83,7 @@ The Home Equity dataset (HMEQ) contains baseline and loan performance informatio
   - Decision Tree
   - Logistic Regression 
 
-- Histograms and Boxplots for the variables.
+- Histograms and Boxplots for the variables
 
 ![plots1](https://github.com/user-attachments/assets/ade4a2fb-aa37-463d-b81c-061069dff0d4)
 
