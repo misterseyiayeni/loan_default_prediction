@@ -79,6 +79,6 @@ The Home Equity dataset (HMEQ) contains baseline and loan performance informatio
 * **DEBTINC:** Debt-to-income ratio (all your monthly debt payments divided by your gross monthly income. This number is one way lenders measure your ability to manage the monthly payments to repay the money you plan to borrow.
 
 
-- Histograms and Boxplots for other variables
+- Histograms and Boxplots for the variables.
 ![bar_plots](https://github.com/user-attachments/assets/4c393d9d-661f-4008-8139-eb56b2b94d56)
 
